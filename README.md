@@ -9,7 +9,7 @@
 <div id="header" alig="center">
 	
 	<h1 alig="center">Hi👋,I'm Eduard Garcia Fernandez</h1>
-	<iframe src="https://giphy.com/embed/sk6yL9EGVeAcE" width="480" height="197" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/matrix-cinematography-sk6yL9EGVeAcE">via GIPHY</a></p>
+	<img src="https://imgs.search.brave.com/pk2NWd0fvMwoZOD2BH6FBLarfl9h7n22NFpywn4Lszk/rs:fit:528:378:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdjLzBh/Lzk5LzdjMGE5OTg0/NDdmYjZjZDUxOTRi/NjJjNzQ2YjNiNzMw/LmpwZw" alt="Un gato jugando con una pelota">
 	<h3 alig="center">I am a student of higher grade in la Salle Gràcia. 
 				   I really like learning about forntend and backend.
 				   I hope one day to be a programmer who can move and apply what I have learned.🤓
