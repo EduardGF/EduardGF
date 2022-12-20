@@ -15,7 +15,7 @@
 	</h3>
 </div>
 ---
-<p>###👨🏻‍💻 About Me:</p>
+<p>👨🏻‍💻 About Me:</p>
 
 <p>-📚 I'm studying to learn more programming</p>
 
