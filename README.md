@@ -9,7 +9,7 @@
 <div id="header" alig="center">
 	
 	<h1 alig="center">Hi👋,I'm Eduard Garcia Fernandez</h1>
-	<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/YW1g39jepet2t5bcSh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/CartoonNetworkLatam-space-brothers-warner-YW1g39jepet2t5bcSh">via GIPHY</a></p>
+	<iframe src="https://giphy.com/embed/YW1g39jepet2t5bcSh" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CartoonNetworkLatam-space-brothers-warner-YW1g39jepet2t5bcSh">via GIPHY</a></p>
 	<h3 alig="center">I am a student of higher grade in la Salle Gràcia. 
 				   I really like learning about forntend and backend.
 				   I hope one day to be a programmer who can move and apply what I have learned.🤓
