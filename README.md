@@ -9,11 +9,11 @@
   <body>
 <div id="header" alig="center">
 	
-	<h1 alig="center">Hi👋,I'm Eduard Garcia Fernandez</h1>
-	<h3 alig="center">I am a student of higher grade in la Salle Gràcia. 
+	Hi👋,I'm Eduard Garcia Fernandez</h1>
+	I am a student of higher grade in la Salle Gràcia. 
 				   I really like learning about forntend and backend.
 				   I hope one day to be a programmer who can move and apply what I have learned.🤓
-	</h3>
+	
 </div>
 ---
 <p>👨🏻‍💻 About Me:</p>
