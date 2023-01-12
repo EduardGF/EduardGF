@@ -10,8 +10,8 @@
 <div id="header" alig="center">	
 </div>
 	<a href="https://www.ejemplo.com">
-  	<img src="https://imgs.search.brave.com/O9gAOt8oQCdHdLOpzQ21OYQzpCQgI07tVFXqujL9E8U/rs:fit:400:225:1/g:ce/aHR0cHM6Ly9jZG4u/bWVtZWdlbmVyYXRv/ci5lcy9pbWFnZW5l/cy9tZW1lcy9mdWxs/LzMwLzQwLzMwNDA0/MDMwLmpwZw">
-	</a>
+  	<center><img src="https://imgs.search.brave.com/O9gAOt8oQCdHdLOpzQ21OYQzpCQgI07tVFXqujL9E8U/rs:fit:400:225:1/g:ce/aHR0cHM6Ly9jZG4u/bWVtZWdlbmVyYXRv/ci5lcy9pbWFnZW5l/cy9tZW1lcy9mdWxs/LzMwLzQwLzMwNDA0/MDMwLmpwZw">
+	</a></center>
 	<p>Hi👋,I'm Eduard Garcia Fernandez</p>
 	<p>I am a student of higher grade in la Salle Gràcia.</p>
 	<p>I really like learning about forntend and backend.</p>
