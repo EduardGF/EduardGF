@@ -9,13 +9,12 @@
   <body>
 <div id="header" alig="center">	
 </div>
-	<a href="https://www.ejemplo.com" style="display:block;margin:auto;">
-  <img src="https://heraldodemexico.com.mx/wp-content/uploads/2019/09/vida_proramador.jpg" alt="Texto alternativo">
-</a>
 	<p>Hi👋,I'm Eduard Garcia Fernandez</p>
 	<p>I am a student of higher grade in la Salle Gràcia.</p>
 	<p>I really like learning about forntend and backend.</p>
 	<p>I hope one day to be a programmer who can move and apply what I have learned.🤓</p>
+	  <a href="https://www.ejemplo.com" style="display:block;margin:auto;">
+  <img src="https://heraldodemexico.com.mx/wp-content/uploads/2019/09/vida_proramador.jpg" alt="Texto alternativo"></a>
 ---
 <p>👨🏻‍💻 About Me:</p>
 
