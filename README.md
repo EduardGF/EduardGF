@@ -10,7 +10,7 @@
 <div id="header" alig="center">	
 </div>
 	<a href="https://www.ejemplo.com">
-  	<img src="https://imgs.search.brave.com/q05DsJOKp1I3Qpk9s6ccZa4vijIfrsfPqxIIiuSi3NQ/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zdGF0/aWNzLm1lbW9uZG8u/Y29tL3AvOTkvY2Nz/LzIwMjAvMDgvQ0Nf/Mjc2MjU3NF8xYTcy/OGRjMzA2ZTA0MWY1/YTQ1NDQxN2RmYTJi/ZWM2Y19tZW1lX290/cm9zX3BhcmFfdm9z/b3Ryb3NfcHJvZ3Jh/bWFkb3Jlc190aHVt/Yl9mYi5qcGc_Y2I9/MzQy" alt="Texto alternativo">
+  	<img src="https://imgs.search.brave.com/O9gAOt8oQCdHdLOpzQ21OYQzpCQgI07tVFXqujL9E8U/rs:fit:400:225:1/g:ce/aHR0cHM6Ly9jZG4u/bWVtZWdlbmVyYXRv/ci5lcy9pbWFnZW5l/cy9tZW1lcy9mdWxs/LzMwLzQwLzMwNDA0/MDMwLmpwZw">
 	</a>
 	<p>Hi👋,I'm Eduard Garcia Fernandez</p>
 	<p>I am a student of higher grade in la Salle Gràcia.</p>
