@@ -10,7 +10,7 @@
 <div id="header" alig="center">	
 </div>
 	<a href="https://www.ejemplo.com">
-  	<center><img src="![image](https://user-images.githubusercontent.com/121028824/212105071-7d5cc0be-acca-4028-82ee-5e17999bc372.png)">
+  	<center><img src="https://imgs.search.brave.com/vvT5nU_cvXbtLH7_dPR1_fyn-Eiz2p3NKOnyqq9ZaLE/rs:fit:768:491:1/g:ce/aHR0cHM6Ly93d3cu/c29mdHpvbmUuZXMv/YXBwL3VwbG9hZHMt/c29mdHpvbmUuZXMv/MjAyMS8xMS9tZW1l/LWxpbmUtNzY4eDQ5/MS5qcGc">
 	</a></center>
 	<p>Hi👋,I'm Eduard Garcia Fernandez</p>
 	<p>I am a student of higher grade in la Salle Gràcia.</p>
