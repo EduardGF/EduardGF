@@ -9,9 +9,9 @@
   <body>
 <div id="header" alig="center">	
 </div>
-	<a href="https://www.ejemplo.com">
-  	<center><img src="https://imgs.search.brave.com/vvT5nU_cvXbtLH7_dPR1_fyn-Eiz2p3NKOnyqq9ZaLE/rs:fit:768:491:1/g:ce/aHR0cHM6Ly93d3cu/c29mdHpvbmUuZXMv/YXBwL3VwbG9hZHMt/c29mdHpvbmUuZXMv/MjAyMS8xMS9tZW1l/LWxpbmUtNzY4eDQ5/MS5qcGc">
-	</a></center>
+	<a href="https://www.ejemplo.com" style="display:block;margin:auto;">
+  <img src="https://heraldodemexico.com.mx/wp-content/uploads/2019/09/vida_proramador.jpg" alt="Texto alternativo">
+</a>
 	<p>Hi👋,I'm Eduard Garcia Fernandez</p>
 	<p>I am a student of higher grade in la Salle Gràcia.</p>
 	<p>I really like learning about forntend and backend.</p>
