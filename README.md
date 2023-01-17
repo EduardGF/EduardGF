@@ -9,6 +9,7 @@
   <body>
 <div id="header" alig="center">	
 </div>
+	<img src="https://profile-counter.glitch.me/EduardGF/count.svg"/>
 	<p>Hi👋,I'm Eduard Garcia Fernandez</p>
 	<p>I am a student of higher grade in la Salle Gràcia.</p>
 	<p>I really like learning about forntend and backend.</p>
