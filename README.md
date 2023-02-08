@@ -55,6 +55,7 @@
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+      <a href="#"><img alt="BASH" src="https://img.shields.io/badge/bash%20Pages-327FC7.svg?logo=bash&logoColor=white"></a>
  </p>
 
   <h3>💻 Software and Tools</h3>
