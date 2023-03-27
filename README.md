@@ -23,9 +23,7 @@
 
 <p>-📖 I know about **Javascript, HTML, CSS, SQL, a little bit of Python**</p>
 
-<p>-📬 One way to contact me is by sending me an email<strong>(eduard.garcia@gracia.lasalle.cat)</strong> or 
-	sending me a message to this insta account<strong>(@eduard.garciia)</strong>
-	where I post things about what I have studied and my projects✌🏼</p>
+<p>-📬 One way to contact me is by sending me an email<strong>(eduard.garcia@gracia.lasalle.cat)</strong>
 ---
 <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
